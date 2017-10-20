@@ -1,2 +1,7 @@
 # KSHS_Chem-project
-화학 게임 및 앱 개발
+
+1. App Development
+2. Game Development
+
+archmage7 : 1319 함태완
+
