@@ -3,7 +3,7 @@
 1. App Development using App Inventor
 2. Game Development using Unity
 
-archmage7  : 1319 함태완,
+archmage7  : 1319 함태완\n,
 hbg13456   : 1221 함봉구,
 kraken0317 : 1116 정윤재,
 min010324  : 1320 황정민,
