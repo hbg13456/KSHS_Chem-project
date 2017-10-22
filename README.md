@@ -13,4 +13,4 @@ Parkseonghun1112  : 1112 박성훈, 
 
 2017.10.21  프로젝트 개설
 2017.10.21  source/BoardManager  작성 : archmage7
-2017.10.22  
+2017.10.22  MainGame.unity  작성 : kraken0317
