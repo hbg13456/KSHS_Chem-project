@@ -9,4 +9,4 @@ kraken0317 : 1116 정윤재,
 min010324  : 1320 황정민,
 kth010910  :      김태훈 
 
-2017.10.21 boardmanager / 입력 : archmage7
+2017.10.21 BoardManager / 입력 : archmage7
