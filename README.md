@@ -3,14 +3,23 @@
 1. App Development using App Inventor
 2. Game Development using Unity
 
+</hr>
+
  archmage7  : 1319 함태완,
+ 
  hbg13456   : 1221 함봉구,
+ 
  kraken0317 : 1116 정윤재,
+ 
  min010324  : 1320 황정민,
+ 
  kth010910  : 1208 김태훈,
+ 
  Parkseonghun1112  : 1112 박성훈, 
 
 
- 2017.10.21  프로젝트 개설
- 2017.10.21  source/BoardManager  작성 : archmage7
- 2017.10.22  MainGame.unity  작성 : kraken0317
+ *2017.10.21  프로젝트 개설
+ 
+ *2017.10.21  source/BoardManager  작성 : archmage7
+ 
+ *2017.10.22  MainGame.unity  작성 : kraken0317
