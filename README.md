@@ -5,6 +5,8 @@
 
 archmage7  : 1319 함태완,
 hbg13456   : 1221 함봉구,
-kraken0317 : 1116 정윤재
+kraken0317 : 1116 정윤재,
+min010324  : 1320 황정민,
+kth010910  :      김태훈 
 
 2017.10.21 boardmanager / 입력 : archmage7
