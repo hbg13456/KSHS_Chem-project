@@ -3,7 +3,7 @@
 1. App Development using App Inventor
 2. Game Development using Unity
 
-</hr>
+## 프로젝트 조원
 
  archmage7  : 1319 함태완,
  
@@ -17,6 +17,7 @@
  
  Parkseonghun1112  : 1112 박성훈, 
 
+## 활동
 
  *2017.10.21  프로젝트 개설
  
