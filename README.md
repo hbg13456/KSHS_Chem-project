@@ -26,3 +26,5 @@
  *2017.10.22  MainGame.unity  작성 : kraken0317
  
  *2017.11.05 DetectDistance  작성 : archmage7 
+
+ *2017.11.05 test 대화창  작성 :  hbg1345
